@@ -3,7 +3,7 @@ package com.zbq.entity;
 import lombok.Data;
 
 /**
- * @ClassName User
+ * @ClassName User 用户信息
  * @Author zbq
  * @Date 2019/4/15 10:47
  * @Version 1.0
