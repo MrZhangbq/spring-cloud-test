@@ -11,9 +11,14 @@ import lombok.Data;
 
 @Data
 public class User {
+    //用户Id
     private Integer id;
+    //用户姓名
     private String name;
+    //用户年龄
     private Integer age;
+    //用户邮箱
     private String email;
+    //创建时间
     private String creattime;
 }
